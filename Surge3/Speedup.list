@@ -13,3 +13,8 @@ DOMAIN-SUFFIX,github.io
 
 # > PlayStation
 DOMAIN-SUFFIX,playstation.com
+
+# > Download
+DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,playfab.com
