@@ -18,3 +18,7 @@ DOMAIN-SUFFIX,playstation.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,playfab.com
+
+# > Microsoft
+DOMAIN-SUFFIX,xboxlive.com
+DOMAIN-SUFFIX,live.com
